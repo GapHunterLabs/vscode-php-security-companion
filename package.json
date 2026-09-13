@@ -2,7 +2,7 @@
   "name": "php-security-companion",
   "displayName": "PHP Security Companion",
   "description": "5 turnkey PHP injection-sink checks (SQL, shell, file inclusion, function injection, open redirect) -- no data leaves your editor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "GapHunterLabs",
   "icon": "images/icon.png",
   "license": "Apache-2.0",
